@@ -1,8 +1,5 @@
-[![basket.js logo](media/logo_src.png)](http://addyosmani.github.io/basket.js/)
 
 > [Basket.js](http://addyosmani.github.io/basket.js/) is a script and resource loader for caching and loading scripts using localStorage
-
-
 
 
 ##Introduction for the Non-Developer
@@ -66,13 +63,6 @@ $ grunt release
 to generate a new release, otherwise just running `grunt test` will run the unit tests.
 
 
-## Team
-
-| ![Addy Osmani avatar](http://www.gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275.png?s=60) | ![Sindre Sorhus avatar](http://www.gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9.png?s=60) | ![Andrée Hansson avatar](http://www.gravatar.com/avatar/9a22324229aebc599d46dacab494ce77.png?s=60) | ![Mat Scales avatar](http://www.gravatar.com/avatar/c2b874c38990ed90a0ed15ac33bda00f.png?s=60) |
-|---|---|---|---|
-| [Addy Osmani](https://github.com/addyosmani) | [Sindre Sorhus](https://github.com/sindresorhus) | [Andrée Hansson](https://github.com/peol) | [Mat Scales](https://github.com/wibblymat) |
-
-
 ## License
 
-MIT © Basket.js team
+MIT

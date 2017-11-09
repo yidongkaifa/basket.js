@@ -13,10 +13,11 @@
     "javascript",
     "js"
   ],
-  "main": "index.js",
+  "main": "./src/basket.js",
   "directories": {
     "example": "example"
   },
+  "dependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -29,5 +30,12 @@
   "bugs": {
     "url": "https://github.com/yidongkaifa/basket.js/issues"
   },
-  "homepage": "https://github.com/yidongkaifa/basket.js#readme"
+  "homepage": "https://github.com/yidongkaifa/basket.js#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "rsvp": "^4.7.0",
+    "script-ext-html-webpack-plugin": "^1.8.8",
+    "webpack": "^3.8.1",
+    "copy-webpack-plugin":"^4.2.0"
+  }
 }

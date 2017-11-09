@@ -1,1 +1,0 @@
-alert('lib1.c538eeee.js')
